@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-[Homepage](https://github.com/dhinesh-venkat/Meals-App/blob/master/meals/meals1_framed.png)
+![Homepage](https://github.com/dhinesh-venkat/Meals-App/blob/master/meals/meals1_framed.png)
